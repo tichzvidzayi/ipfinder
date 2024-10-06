@@ -1,2 +1,2 @@
 # ipfinder
-ipf_inder
+ipfinder
